@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d039561d-27c0-4f58-a2b3-7110aedd2a80" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo_2/Opdracht_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_2/Opdracht_8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +28,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="33QDvbLBS0SrAVLUNhUflnD2wRY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,7 +68,7 @@
       <updated>1759240634027</updated>
       <workItem from="1759240635142" duration="1475000" />
       <workItem from="1759322711190" duration="193000" />
-      <workItem from="1759322913384" duration="3290000" />
+      <workItem from="1759322913384" duration="5142000" />
     </task>
     <servers />
   </component>
