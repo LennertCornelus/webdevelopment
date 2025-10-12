@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d039561d-27c0-4f58-a2b3-7110aedd2a80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo_3/Homepage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_3/Contactinformatie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_3/Homepage_kopie/images/images.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_3/Homepage_kopie/images/images.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_3/Homepage_kopie/images/kirby-star2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_3/Homepage_kopie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_3/Opleidingsaanbod/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/Homepage/images/61YprHgE3QL._UF1000,1000_QL80_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/Homepage/images/Albert_Einstein_1947.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/Homepage/images/Doc_Emmett_Brown.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/Homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3/Homepage/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,23 +44,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;disable.download.node.interpreter.editor.notification&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "disable.download.node.interpreter.editor.notification": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/lenne/OneDrive/Documenten/GitHub/webdevelopment/Labo_3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenne\OneDrive\Documenten\GitHub\webdevelopment\Labo_3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenne\OneDrive\Documenten\GitHub\webdevelopment\Labo_3\Homepage" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -70,7 +88,8 @@
       <workItem from="1759322711190" duration="193000" />
       <workItem from="1759322913384" duration="7300000" />
       <workItem from="1759848348891" duration="1157000" />
-      <workItem from="1759932346389" duration="3676000" />
+      <workItem from="1759932346389" duration="7340000" />
+      <workItem from="1760255982457" duration="3170000" />
     </task>
     <servers />
   </component>
