@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d039561d-27c0-4f58-a2b3-7110aedd2a80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo_3/Homepage_kopie/hobbys.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_3/Homepage_kopie/likes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/Homepage_kopie/hobbys.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3/Homepage_kopie/hobbys.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo_3/Homepage_kopie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3/Homepage_kopie/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_3/Opleidingsaanbod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3/Opleidingsaanbod/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/Homepage_kopie/likes.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3/Homepage_kopie/likes.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Debug",
     "JavaScript Debug.likes.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -96,7 +94,7 @@
       <workItem from="1759932346389" duration="7340000" />
       <workItem from="1760255982457" duration="3170000" />
       <workItem from="1760259816991" duration="302000" />
-      <workItem from="1760451729127" duration="1789000" />
+      <workItem from="1760451729127" duration="2102000" />
     </task>
     <servers />
   </component>
