@@ -1,0 +1,19 @@
+ul.checklist li {
+    list-style: none;
+    padding: 2px 20px;
+    background-image: url("images/checkmark.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 15px;
+}
+
+ul.checklist li.checked {
+    list-style: none;
+    padding: 2px 20px;
+    background-image: url("images/checkmarkbox.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 15px;
+}
+
+
