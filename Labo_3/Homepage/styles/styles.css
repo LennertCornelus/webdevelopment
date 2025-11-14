@@ -1,0 +1,35 @@
+body {
+    background-color: coral;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+li {
+    list-style: armenian;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: large;
+}
+dt {
+    font-style: oblique;
+}
+
+.naam {
+    font-size: 3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.naam:hover {
+    text-decoration: underline;
+}
+
+.datagrid { border-collapse: collapse; text-align: left; width: 100%; } .datagrid {font: normal 12px/150% Courier New, Courier, monospace; background: #fff; overflow: hidden; border: 3px solid #A65B1A; -webkit-border-radius: 12px; -moz-border-radius: 12px; border-radius: 12px; }.datagrid td, .datagrid th { padding: 5px 20px; }.datagrid thead th {background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #A65B1A), color-stop(1, #7F4614) );background:-moz-linear-gradient( center top, #A65B1A 5%, #7F4614 100% );filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#A65B1A', endColorstr='#7F4614');background-color:#A65B1A; color:#522A10; font-size: 16px; font-weight: bold; border-left: 3px solid #BF691E; } .datagrid thead th:first-child { border: none; }.datagrid tbody td { color: #7F4614; border-left: 2px solid #D9CFB8;font-size: 14px;border-bottom: 3px solid #D9CFB8;font-weight: normal; }.datagrid tbody .alt td { background: #F0E5CC; color: #7F4614; }.datagrid tbody td:first-child { border-left: none; }.datagrid tbody tr:last-child td { border-bottom: none; }
+
+.onbekend {
+    background-color: red;
+}

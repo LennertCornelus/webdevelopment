@@ -1,0 +1,33 @@
+table {
+    border-collapse: collapse;
+    border: 1px black solid;
+}
+
+th {
+    background-color: rgb(170,170,200);
+    font-weight: bold;
+    font-size: 16px;
+    border: 1px dotted black;
+}
+
+tbody tr:first-child td {
+    background-color: rgb(35,37,70);
+    color: rgb(200,190,240);
+}
+
+tbody tr td.andereMaand {
+    background-color: lightgrey;
+    color: grey;
+}
+
+td {
+    border: black dotted 1px;
+}
+
+td:first-child, td:last-child {
+    background-color: rgb(255,220,220);
+}
+
+td.feestdag {
+    background-color: rgb(250,120,120);
+}
