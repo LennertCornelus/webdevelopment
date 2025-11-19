@@ -1,0 +1,108 @@
+body {
+    margin: 5%;
+    align-content: center;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-size: 1.2em;
+
+}
+
+h1, h2 {
+    color: #007e7e;
+}
+
+h1 {
+    font-size: 150%;
+}
+
+h2 {
+    font-size: 130%;
+}
+
+aside h1 {
+    color: orange;
+}
+
+aside h2 {
+    color: deepskyblue;
+}
+
+footer {
+    font-size: 50%;
+    horiz-align: center;
+    align-content: center;
+
+}
+
+aside p a:hover {
+    background-color: saddlebrown;
+}
+
+aside h1, aside p{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+aside {
+    border: 2px solid lightskyblue;
+    box-sizing: border-box;
+    width: 29%;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    horiz-align: right;
+    float: right;
+
+}
+
+#content {
+    display: inline-block;
+    box-sizing: border-box;
+    width: 70%;
+    vertical-align: top;
+    horiz-align: left;
+    margin-bottom: 235px;
+
+}
+
+header{
+    text-align: center;
+}
+
+.artist {
+    font-weight: bold;
+}
+
+.cd {
+    font-style: italic;
+}
+
+#guarantee {
+    margin:30px;
+    padding-right: 20px;
+    color: #444444;
+    background-color: #a7cece ;
+    border:  2px white dashed;
+    background-image: url("../Images/background.gif");
+    background-repeat: no-repeat;
+    padding-left: 90px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+aside h1 {
+    background-image: url("../images/cocktail.gif");
+    background-repeat: repeat-x;
+    background-size:  80px;
+    background-position: top left;
+    background-clip: ;
+
+    position: relative;
+    padding-top: 60px;
+    padding-bottom:21px;
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+
+.footer {
+    text-align: center;
+}

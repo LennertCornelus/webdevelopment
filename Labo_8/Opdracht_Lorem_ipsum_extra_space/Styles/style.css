@@ -1,0 +1,16 @@
+section {
+    display: inline-block;
+    width: 47%;
+    box-sizing: border-box;
+    padding: 10px;
+    border: 1px solid black;
+    margin:inherit;
+    white-space: none;
+    font-size: initial;
+    vertical-align: top;
+}
+
+body {
+    font-size: 0;
+    margin: 5px
+}
