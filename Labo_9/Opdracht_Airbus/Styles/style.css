@@ -1,0 +1,188 @@
+body {
+    box-sizing: border-box;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.banner {
+    height: 200px;
+    background-image: url("../images/bgsky3.jpg");
+    color: darkblue;
+    text-align: center;
+}
+
+.banner p:first-child {
+    font-size: 300%;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.banner p:nth-last-child(2) {
+    font-size: 240%;
+    font-weight: bold;
+    margin-bottom: -100px;
+}
+
+.banner img {
+    display: inline;
+    position: relative;
+    right: 250px;
+    bottom: 20px;
+    float: right;
+}
+
+.news-block {
+    box-sizing: border-box;
+    width: 25%;
+    background-color: #dddddd;
+    border: 1px #999999 solid;
+    float: right
+}
+
+.news-block p {
+    color: #666666;
+    font-size: 90%;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.news-block h3 {
+    color: white;
+    background-color: blue;
+    text-align: center;
+    font-size: 120%;
+}
+
+main {
+    box-sizing: border-box;
+    width: 75%;
+    margin-right: 10px;
+}
+
+.introduction span {
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.introduction p{
+    margin: 20px 30px 0 20px;
+    float: right;
+    text-align: justify;
+}
+
+.logo img {
+    margin: 20px 20px 0 20px;
+}
+
+.logo, .introduction {
+    display: inline-block;
+}
+
+.introduction {
+    position:relative;
+    left: 40px
+}
+
+.logo {
+    margin: 0;
+    position: relative;
+    bottom: 100px;
+    object-position: top;
+}
+
+.introduction {
+    width: 75%;
+}
+
+
+.gallery {
+    background-color: #999999;
+    margin-top: 30px
+}
+
+.gallery .foto {
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    display:inline-block;
+    background-color: white;
+    border: 1px #999999 dashed;
+}
+
+.gallery .foto:nth-child(1) {
+    margin-right: 10px;
+    margin-bottom: 10px
+}
+
+.gallery .foto:nth-child(2) {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.gallery .foto:nth-child(3) {
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.gallery .foto:nth-child(4) {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.gallery .foto:nth-child(5) {
+    margin: 10px
+}
+
+.gallery .foto:nth-child(6) {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.gallery .foto:nth-child(7) {
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.gallery .foto:nth-child(8) {
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.gallery .foto:nth-child(9) {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.gallery .foto img{
+    box-sizing: border-box;
+    width: 180px;
+    height: 180px;
+    margin: 10px;
+}
+
+nav {
+    background-color: #666666;
+    color: white;
+    line-height: 2em;
+    margin-top: 0px
+}
+
+.nav-list {
+    margin-left: 120px;
+    display: inline-block;
+}
+
+.nav-list a:hover {
+    color: red;
+}
+
+footer {
+    text-align: center;
+}
