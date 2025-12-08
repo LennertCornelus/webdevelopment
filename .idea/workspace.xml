@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d039561d-27c0-4f58-a2b3-7110aedd2a80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht_Airbus/Styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht_positioneren/Styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_10/Composition_A/Styles/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_10/Composition_A/Styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_10/Composition_A/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_10/Homepage/images/images.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_10/Homepage/images/images.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_10/Homepage/images/kirby-star2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_10/Homepage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_10/Homepage/styles/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_10/Homepage/styles/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -50,7 +57,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;disable.download.node.interpreter.editor.notification&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenne/OneDrive/Documenten/GitHub/webdevelopment/Labo_8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenne/OneDrive/Documenten/GitHub/webdevelopment/Labo_10/Homepage/styles&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -63,6 +70,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenne\OneDrive\Documenten\GitHub\webdevelopment\Labo_10\Homepage\styles" />
+      <recent name="C:\Users\lenne\OneDrive\Documenten\GitHub\webdevelopment\Labo_10" />
+      <recent name="C:\Users\lenne\OneDrive\Documenten\GitHub\webdevelopment\Labo_10\Composition_A\Styles" />
       <recent name="C:\Users\lenne\OneDrive\Documenten\GitHub\webdevelopment\Labo_8" />
       <recent name="C:\Users\lenne\OneDrive\Documenten\GitHub\webdevelopment\Labo_3" />
     </key>
@@ -115,7 +125,9 @@
       <workItem from="1764081448122" duration="218000" />
       <workItem from="1764081675540" duration="4968000" />
       <workItem from="1764240359481" duration="16000" />
-      <workItem from="1764335163265" duration="6131000" />
+      <workItem from="1764335163265" duration="6409000" />
+      <workItem from="1764687568165" duration="4553000" />
+      <workItem from="1765180306428" duration="2334000" />
     </task>
     <servers />
   </component>

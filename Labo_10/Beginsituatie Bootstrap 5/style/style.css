@@ -1,0 +1,13 @@
+div.row div {
+    background-color: lightgray;
+    height: 80px;
+    box-sizing: border-box;
+
+}
+
+div.row div:nth-child(2n) {
+    background-color: darkgray;
+}
+
+
+
