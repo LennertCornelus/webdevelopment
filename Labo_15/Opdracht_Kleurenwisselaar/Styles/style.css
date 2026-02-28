@@ -1,0 +1,10 @@
+input {
+    background: white;
+    height: 50px;
+    width: 200px;
+}
+
+.clicked {
+    background: lightblue;
+    color: white;
+}

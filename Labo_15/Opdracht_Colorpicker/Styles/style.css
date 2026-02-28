@@ -1,0 +1,24 @@
+.colorPicker {
+    border: 5px solid lightgray;
+    border-radius: 12px;
+    display: flex;
+    width: 380px;
+}
+
+.swatch {
+    width: 5em;
+    height: 4em;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin: auto
+}
+
+input {
+    box-sizing: border-box;
+    height: 1em;
+}
+
+.components {
+    width: 268px
+}
+
