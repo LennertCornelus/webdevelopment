@@ -1,0 +1,12 @@
+div {
+    border: 1px solid black;
+    margin-top: 5px;
+}
+
+div * {
+    margin-left: 15px;
+}
+
+div *:last-child {
+    margin-bottom: 10px;
+}

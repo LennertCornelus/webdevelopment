@@ -5,18 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d039561d-27c0-4f58-a2b3-7110aedd2a80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo_15/Opdracht_Colorpicker/Scripts/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/Opdracht_Colorpicker/Styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/Opdracht_Colorpicker/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/Opdracht_Kleurenwisselaar/Scripts/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/Opdracht_Kleurenwisselaar/Styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/Opdracht_Kleurenwisselaar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/Opdracht_Paragrafen/Scripts/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/Opdracht_Paragrafen/Styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/Opdracht_Paragrafen/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/Opdracht_Producten/Scripts/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/Opdracht_Producten/Styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/Opdracht_Producten/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_16/Opdracht_Invulformulier/Scripts/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_16/Opdracht_Invulformulier/Styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_16/Opdracht_Invulformulier/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_16/Opdracht_ManVanAn/Scripts/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_16/Opdracht_ManVanAn/Styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_16/Opdracht_ManVanAn/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_16/Opdracht_SpatiesMetFuncties/Scripts/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_16/Opdracht_SpatiesMetFuncties/Styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_16/Opdracht_SpatiesMetFuncties/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -54,14 +51,14 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.likes.html.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;disable.download.node.interpreter.editor.notification&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenne/OneDrive/Documenten/GitHub/webdevelopment/Labo_15&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenne/OneDrive/Documenten/GitHub/webdevelopment/Labo_16&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -74,11 +71,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenne\OneDrive\Documenten\GitHub\webdevelopment\Labo_16" />
       <recent name="C:\Users\lenne\OneDrive\Documenten\GitHub\webdevelopment\Labo_15" />
       <recent name="C:\Users\lenne\OneDrive\Documenten\GitHub\webdevelopment\Labo_14" />
       <recent name="C:\Users\lenne\OneDrive\Documenten\GitHub\webdevelopment\Labo_10\Homepage\styles" />
       <recent name="C:\Users\lenne\OneDrive\Documenten\GitHub\webdevelopment\Labo_10" />
-      <recent name="C:\Users\lenne\OneDrive\Documenten\GitHub\webdevelopment\Labo_10\Composition_A\Styles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lenne\OneDrive\Documenten\GitHub\webdevelopment\" />
@@ -147,7 +144,10 @@
       <workItem from="1770652200324" duration="1111000" />
       <workItem from="1770804012357" duration="4961000" />
       <workItem from="1772110362892" duration="6007000" />
-      <workItem from="1772213271146" duration="5586000" />
+      <workItem from="1772213271146" duration="5758000" />
+      <workItem from="1772618698691" duration="6683000" />
+      <workItem from="1772711549616" duration="4324000" />
+      <workItem from="1772881808608" duration="588000" />
     </task>
     <servers />
   </component>
