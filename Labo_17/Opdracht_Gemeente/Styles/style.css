@@ -1,0 +1,12 @@
+div {
+    border: 1px solid lightgray;
+    width: 60%;
+    border-radius: 5px;
+}
+
+#ok {
+    color: white;
+    background-color: blue;
+    width: 12%;
+    border: 0;
+}
