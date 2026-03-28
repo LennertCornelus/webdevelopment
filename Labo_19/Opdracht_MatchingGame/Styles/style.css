@@ -1,0 +1,31 @@
+button {
+    display: block;
+    margin: auto;
+    width: 4em;
+    height: 2em;
+}
+
+img {
+    width: 20%;
+    height: 20%;
+    max-width:200px;
+    max-height:200px;
+    object-fit: contain;
+
+}
+
+.row {
+    justify-content: space-evenly;
+}
+
+.juist {
+    border: 1px green solid;
+}
+
+.fout {
+    border: 1px red solid;
+}
+
+.gevonden {
+    visibility: hidden;
+}
