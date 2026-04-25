@@ -1,0 +1,44 @@
+.colorPicker {
+    border: 5px solid lightgray;
+    border-radius: 12px;
+    display: flex;
+    width: 400px;
+}
+
+.swatch {
+    width: 5em;
+    height: 4em;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin: auto
+}
+
+input {
+    box-sizing: border-box;
+    height: 1em;
+}
+
+.components {
+    width: 268px;
+}
+
+#save {
+    height: 1.5em;
+    margin-top: auto;
+}
+
+.swatch2 {
+    border-radius: 0;
+    display: inline-block;
+    margin: 0.5em;
+}
+
+.delete {
+    height: 40%;
+    float: right;
+    margin-bottom: auto;
+    margin-top: 0;
+    width: 30%;
+    border-radius: 0;
+    border: 1px solid grey;
+}
